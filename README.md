@@ -1,4 +1,4 @@
-Mental Health Assisting Agent
+# Mental Health Assisting Agent
 
 Mental Health Assisting Agent is an NLP-based chatbot designed to help students combat depression and improve their mental well-being. The chatbot leverages advanced NLP techniques, offers a depression test to assess users' mental health, and provides tailored suggestions.
 Table of Contents
