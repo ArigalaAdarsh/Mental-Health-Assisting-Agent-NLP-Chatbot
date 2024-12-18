@@ -42,7 +42,7 @@ Install the required packages:
 
  
 ```
-    streamlit run main.py
+streamlit run main.py
 ```
     Interact with the chatbot through the Streamlit interface.
  
