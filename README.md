@@ -22,7 +22,7 @@ Features
 
 # Installation
 
-    Clone the repository:
+Clone the repository:
 
  
 ```
