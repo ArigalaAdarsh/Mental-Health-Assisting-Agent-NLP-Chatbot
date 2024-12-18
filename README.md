@@ -24,30 +24,26 @@ Features
 
     Clone the repository:
 
-bash
+ 
 ```
     git clone https://github.com/ArigalaAdarsh/Mental-Health-Assisting-Agent-NLP-Chatbot.git
 ```
 Navigate to the project directory:
 
-bash
-```
+ ```
     cd Mental-Health-Assisting-Agent
 ```
 Install the required packages:
 
-bash
-```
+ ```
     pip install -r requirements.txt
 ```
 # Usage
 
-Run the Streamlit application:
-
-bash
-   ```
+ 
+    ```
     `streamlit run main.py
-   ```
+    ```
     Interact with the chatbot through the Streamlit interface.
  
 # Team
