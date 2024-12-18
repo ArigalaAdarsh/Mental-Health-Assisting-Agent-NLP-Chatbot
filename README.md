@@ -42,9 +42,9 @@ bash
 ```
 # Usage
 
-    Run the Streamlit application:
+Run the Streamlit application:
 
-    bash
+bash
    ```
     `streamlit run main.py
    ```
