@@ -52,7 +52,7 @@ Usage
 
 File Structure
 
-graphql
+ 
 
 Mental-Health-Assisting-Agent/
 ├── NLP_model.py           # Contains the NLP model training and preprocessing code
