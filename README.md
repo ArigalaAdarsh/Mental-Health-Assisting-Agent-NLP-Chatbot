@@ -42,7 +42,7 @@ Install the required packages:
 
  
  ```
-   streamlit run app.py
+   streamlit run main.py
  ```
  
 # Team
