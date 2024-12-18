@@ -41,10 +41,9 @@ Install the required packages:
 # Usage
 
  
-```
+ ```
 streamlit run main.py
-```
-    Interact with the chatbot through the Streamlit interface.
+ ```
  
 # Team
 
