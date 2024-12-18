@@ -11,7 +11,7 @@ Table of Contents
     Team
     Acknowledgements
 
-Project Overview
+# Project Overview
 
 The Mental Health Assisting Agent aims to provide students with a supportive resource to navigate their mental health challenges. By interacting with the chatbot, users can receive personalized advice and resources based on their responses.
 Features
@@ -20,52 +20,42 @@ Features
     Data Preprocessing: Ensures high-quality data for accurate interactions.
     Depression Test: Assesses users' mental health and provides tailored suggestions based on their scores.
 
-Installation
+# Installation
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/yourusername/Mental-Health-Assisting-Agent.git
-
+bash
+```
+    git clone https://github.com/ArigalaAdarsh/Mental-Health-Assisting-Agent-NLP-Chatbot.git
+```
 Navigate to the project directory:
 
 bash
-
-cd Mental-Health-Assisting-Agent
-
+```
+    cd Mental-Health-Assisting-Agent
+```
 Install the required packages:
 
 bash
-
+```
     pip install -r requirements.txt
-
-Usage
+```
+# Usage
 
     Run the Streamlit application:
 
     bash
-
-    streamlit run main.py
-
+   ```
+    `streamlit run main.py
+   ```
     Interact with the chatbot through the Streamlit interface.
-
-File Structure
-
  
-
-Mental-Health-Assisting-Agent/
-├── NLP_model.py           # Contains the NLP model training and preprocessing code
-├── main.py                # Streamlit application to interact with the chatbot
-├── intents.json           # Dataset for training the NLP model
-├── README.md              # Project documentation
-
-Team
+# Team
 
     A. Adarsh
     R Trisha
     P Harshitha
 
-Acknowledgements
+# Acknowledgements
 
 We would like to thank our project guide, Dr. P. Ravi Kumar, for his invaluable guidance and support throughout this journey.
